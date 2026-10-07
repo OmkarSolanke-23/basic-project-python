@@ -42,7 +42,7 @@ Python-Projects/
 Some basic projects included in this repository:
 
 * 📞 Contact Management System
-* 🏦 Bank Management System
+* 🏦 ATM Management System
 * 🎯 Student Management System
 * 🔐 Password Generator
 * 🔢 Number Programs
